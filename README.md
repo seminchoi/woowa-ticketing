@@ -85,7 +85,9 @@
 프로젝트는 종료되었지만 위 문제점을 인식하여 다음과 같은 개선안을 그려보았습니다.
 
 ### 개선안
-<img width="892" alt="image" src="https://github.com/user-attachments/assets/4502acc8-f2cf-4c7d-84a0-ce1efbcf9499" />
+
+<img width="1150" alt="image" src="https://github.com/user-attachments/assets/15ea1a67-57a6-4db5-81e4-e9d8953b52ef" />
+
 
 **설명**
 - 각 서버를 서로 다른 가용 영역에 배치하고 추가적인 Scale Out으로 가용성을 높였습니다.
