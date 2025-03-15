@@ -86,13 +86,14 @@
 
 ### 개선안
 
-<img width="1150" alt="image" src="https://github.com/user-attachments/assets/15ea1a67-57a6-4db5-81e4-e9d8953b52ef" />
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/cb6783a4-0153-42a7-8bec-f27c394dfd88" />
 
 
 **설명**
 - 각 서버를 서로 다른 가용 영역에 배치하고 추가적인 Scale Out으로 가용성을 높였습니다.
+- ALB와 NAT만 Public Subnet에 배치하고, 모든 서비스를 Private subnet에 배치하였습니다.
+- Private Subnet에 접근할 수 있는 Bastion Host를 배치하였습니다.
 - Redis Sentinel과 RDS Multi-AZ 구성을 통해 단일 장애 지점을 방지합니다.
-- 클라이언트는 ALB를 통해 서버에 요청할 수 있으므로 ALB와 NAT를 제외한 모든 서비스를 Private subnet에 배치하였습니다.
 
 
 ## 2. 동시성을 제어하는 티켓팅 기능 구현
