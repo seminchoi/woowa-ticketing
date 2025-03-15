@@ -86,7 +86,7 @@
 
 ### 개선안
 
-<img width="759" alt="image" src="https://github.com/user-attachments/assets/cb6783a4-0153-42a7-8bec-f27c394dfd88" />
+<img width="1125" alt="image" src="https://github.com/user-attachments/assets/eb868c99-6b0e-46a1-b784-93626937c834" />
 
 
 **설명**
