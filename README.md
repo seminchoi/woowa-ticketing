@@ -175,7 +175,7 @@ Pub/Sub 락을 효과적으로 활용할 수 있는 상황은 **선착순 쿠폰
 대기열 큐는 Sorted List를, 티켓팅 세션은 HashSet으로 구현하였습니다.
 
 
-다음은 대기열 시스템이 어떤 흐름으로 동작하는지 전체 서비스 관점에서 표현한 그림입니다.
+### 대기열 제어 전체 흐름
 
 ![image](https://github.com/user-attachments/assets/a0bd5cf8-e86c-497b-ac00-5610246fa42e)
 
